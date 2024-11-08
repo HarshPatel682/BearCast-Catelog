@@ -23,7 +23,7 @@ jsonData = """
     {"title": "Raj's Wedding", "img": "img/rajwedding.jpg", "href":"subpages/rajwedding.html", "date": "08 Jun 2022"},
     {"title": "S+D Engagement", "img": "img/sdengagement.jpg", "href":"subpages/sdengagement.html", "date": "18 Jun 2022"},
     {"title": "Reecha San Diego", "img": "img/reechasandiego.jpg", "href":"subpages/rsandiego.html", "date": "10 Jul 2022"},
-    {"title": "Parth Engagement", "img": "img/parthengagement.jpg", "href":"subpages/parthengagement.html", "date": "09 Aug 2022"},
+    {"title": "Parth Engagement", "img": "img/parthengagement.jpg", "href":"subpages/parthengagement.html", "date": "21 Aug 2022"},
     {"title": "Orlando", "img": "img/orlando.jpg", "href":"subpages/orlando.html", "date": "21 Sept 2022"},
     {"title": "RH Engagement", "img": "img/24_rhengagement.jpg", "href":"subpages/rhengagement.html", "date": "08 Oct 2022"}
 ] 
